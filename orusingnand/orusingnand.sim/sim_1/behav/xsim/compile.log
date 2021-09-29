@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/HeritageLab/orusingnand/orusingnand.srcs/sources_1/new/ornand.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ornand
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/HeritageLab/orusingnand/orusingnand.srcs/sim_1/new/ornand_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ornand_tb
