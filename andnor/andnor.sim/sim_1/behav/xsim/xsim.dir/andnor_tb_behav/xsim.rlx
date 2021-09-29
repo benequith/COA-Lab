@@ -1,0 +1,12 @@
+
+{ 
+    crc :  7133489529840081288  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 4415056bb68841739889a7d00742f6af --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot andnor_tb_behav xil_defaultlib.andnor_tb" , 
+    buildDate : "Jun 14 2018" , 
+    buildTime : "20:41:02" , 
+    linkCmd : "C:\\Xilinx\\Vivado\\2018.2\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/andnor_tb_behav/xsimk.exe\"   \"xsim.dir/andnor_tb_behav/obj/xsim_0.win64.obj\" \"xsim.dir/andnor_tb_behav/obj/xsim_1.win64.obj\" \"C:\\Xilinx\\Vivado\\2018.2\\lib\\win64.o\\\\librdi_simulator_kernel.dll\"  \"C:\\Xilinx\\Vivado\\2018.2\\lib\\win64.o\\\\librdi_simbridge_kernel.dll\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 
