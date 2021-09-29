@@ -1,0 +1,1 @@
+-wto "2a511f892c5747f08c202f92712f2d51" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "halfad_df_tb_behav" "xil_defaultlib.halfad_df_tb" -log "elaborate.log" 
