@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/HeritageLab/testnot/testnot.srcs/sources_1/new/testnot.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity testnot
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/HeritageLab/testnot/testnot.srcs/sim_1/new/testnot_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity testnot_tb
