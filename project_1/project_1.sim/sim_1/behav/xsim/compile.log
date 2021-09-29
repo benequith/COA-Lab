@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/HeritageLab/COA/project_1/project_1.srcs/sources_1/new/nand_bv.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity nand_bv
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/HeritageLab/COA/project_1/project_1.srcs/sim_1/new/nand_bv_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity nand_bv_tb
