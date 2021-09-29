@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/HeritageLab/COA/nor_bv/nor_bv.srcs/sources_1/new/nor_bv.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity nor_bv
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/HeritageLab/COA/nor_bv/nor_bv.srcs/sim_1/new/nor_bv_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity nor_bv_tb
